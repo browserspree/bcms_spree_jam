@@ -13,7 +13,9 @@ source "https://rubygems.org"
 # To use debugger
 # gem 'debugger'
 gem 'browsercms', :git => 'git://github.com/britneywright/browsercms.git', :branch => 'master'
-gem 'spree_core', '~> 2.2.4'
+gem 'spree', '~> 2.2.4'
 #gem 'paperclip', '~> 3.4.2'
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'
+gem 'rails', '4.0.6'
+gem 'actionpack', '4.0.6'
